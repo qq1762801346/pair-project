@@ -1,0 +1,6 @@
+﻿  WordCount.cpp
+f:\项目\031602442\项目二\031602439&031602442\project1\wordcount.cpp(92): warning C4018: “<=”: 有符号/无符号不匹配
+f:\项目\031602442\项目二\031602439&031602442\project1\wordcount.cpp(151): warning C4018: “>=”: 有符号/无符号不匹配
+f:\项目\031602442\项目二\031602439&031602442\project1\wordcount.cpp(218): warning C4018: “<=”: 有符号/无符号不匹配
+f:\项目\031602442\项目二\031602439&031602442\project1\wordcount.cpp(281): warning C4018: “<=”: 有符号/无符号不匹配
+  Project1.vcxproj -> F:\项目\031602442\项目二\031602439&031602442\Debug\WordCount.exe
